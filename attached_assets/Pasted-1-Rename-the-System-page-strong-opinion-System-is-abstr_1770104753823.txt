@@ -1,0 +1,167 @@
+1. Rename the “System” page (strong opinion)
+
+“System” is abstract.
+Judges don’t reward abstractions. They reward mechanisms.
+
+Rename it to:
+
+How Leverage Is Created
+
+Subtitle:
+
+From lived experience → behavioral delta → external proof
+
+This instantly reframes the page from theory to mechanism.
+
+2. System Page Copy (Judge-Grade, Plain English)
+
+This is the full narrative. No jargon. No AI mysticism.
+
+Page Header
+
+How Leverage Is Created
+
+OperatorOS doesn’t help you think harder.
+It shows you how your behavior is changing—and why that matters.
+
+Section 1: The Core Insight (Why the Diff Engine Works)
+
+Most tools capture moments.
+Leverage comes from patterns across time.
+
+The Diff Engine compares your daily inputs across days and weeks to detect:
+
+Language shifts
+
+Decision bias changes
+
+Movement from effort → constraint → leverage
+
+This is how real operators improve: not by ideas, but by pattern correction.
+
+Section 2: What the Engine Actually Does
+
+Step 1 – Capture reality
+Daily entries record friction, decisions, and intent—not goals.
+
+Step 2 – Detect delta
+The system compares you vs. your past self, not you vs. advice.
+
+Step 3 – Synthesize leverage
+It outputs:
+
+What changed
+
+Why it matters
+
+What you now do differently
+
+No motivation. Just consequences.
+
+Section 3: Why This Is Different
+
+Most productivity tools ask:
+
+“What do you want to do?”
+
+OperatorOS asks:
+
+“What are you actually becoming?”
+
+The Diff Engine makes growth visible, exportable, and compounding.
+
+Section 4: The Output (Point to Proof)
+
+Every insight becomes:
+
+A decision rule
+
+A business move
+
+A publish-ready proof post
+
+If it can’t change behavior or status, it doesn’t ship.
+
+Final Line (Stop Here)
+
+Leverage isn’t motivation.
+It’s measurable change over time.
+
+3. Dashboard Narrative Alignment (One Clear Funnel)
+
+Your dashboard should scream one thing only.
+
+Primary CTA (Big, Centered)
+
+Show My Leverage
+
+Subtext:
+
+See how your decisions and behavior have changed.
+
+Everything else becomes secondary:
+
+Daily → feeds the engine
+
+Decisions → sharpens the engine
+
+History → proves the engine
+
+If a judge asks “what do I click?”
+There should be no choice.
+
+4. Kill Anything That Feels “Extra”
+
+Here’s the diagnostic rule:
+
+If a page cannot answer one of these, it’s dead weight:
+
+Does this help the Diff Engine?
+
+Does this feed it?
+
+Does this prove it?
+
+If not—cut, rename, or demote it.
+
+Judges subconsciously reward restraint.
+
+5. 2-Minute Fallback Demo (Wi-Fi Safe)
+
+This is your insurance policy.
+
+0–20s
+
+“This app shows how a person is becoming more effective over time.”
+
+Open Dashboard → Click Show My Leverage (Demo Mode).
+
+20–60s
+
+Scroll slowly:
+
+Before / After insight
+
+One Compounding Rule
+
+Say:
+
+“This is behavioral delta, not journaling.”
+
+60–90s
+
+Click Generate Proof Post.
+
+Say:
+
+“Growth that can’t be externalized isn’t leverage.”
+
+90–120s
+
+Point to System page header:
+
+“This explains why it works—no black box.”
+
+Stop talking.
+
+Silence here increases perceived confidence.
